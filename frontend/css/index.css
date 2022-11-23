@@ -3704,10 +3704,10 @@
  }
  
  .s-about__pic {
-     width: var(--vspace-5);
-     height: var(--vspace-5);
-     border: 1.6rem solid rgba(255, 255, 255, 0.02);
-     border-radius: 50%;
+     width: var(--vspace-2);
+     height: var(--vspace-2);
+     border: 1.2rem solid rgba(255, 255, 255, 0.02);
+     border-radius: 20%;
  }
  
  .s-about__content-bottom {
