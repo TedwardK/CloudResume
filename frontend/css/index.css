@@ -3706,7 +3706,7 @@
  .s-about__pic {
      width: var(--vspace-2);
      height: var(--vspace-2);
-     border: 1.2rem solid rgba(255, 255, 255, 0.02);
+     border: 1.5rem solid rgba(255, 255, 255, 0.02);
      border-radius: 20%;
  }
  
