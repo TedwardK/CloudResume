@@ -9,7 +9,7 @@
         getVisitCount();
     })
     
-    const functionApiUrl = "https://getresumecounterfunc.azurewebsites.net/api/GetResumeCounter?code=XsdX110pBg_PhgFmqscB6N2d-nAC3WL8kOViizYFkoHwAzFujFbDtQ==";
+    const functionApiUrl = 'https://getresumecounterfunc.azurewebsites.net/api/GetResumeCounter?code=XsdX110pBg_PhgFmqscB6N2d-nAC3WL8kOViizYFkoHwAzFujFbDtQ==';
     const functionApi = 'http://localhost:7071/api/GetResumeCounter';
 
     const getVisitCount = () => {
